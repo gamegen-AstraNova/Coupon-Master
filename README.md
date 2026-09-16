@@ -29,4 +29,4 @@ Gameplay inspiration: Super Coupon Club by Gizmo199 and NicolaiGD. This is a sep
 
 ## Build verification
 
-2026-09-15: production build and 35 automated tests passed. The 80 runtime files were checked byte-for-byte against the delivery ZIP. Full 30-order manual playthrough and GameGen backend upload are not claimed by this release.
+2026-09-16: production build and 35 automated tests passed. All 47 game textures were replaced in place with high-quality WebP while preserving their dimensions and alpha channels; the runtime payload fell from 83.54 MB to 14.41 MB. The rebuilt ZIP was checked against the production output. Full 30-order manual playthrough and a new GameGen backend upload are not claimed by this release.
